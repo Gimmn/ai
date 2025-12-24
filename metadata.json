@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Magic: Neural Particle Tree",
+  "description": "A 3D interactive Christmas experience powered by WebGL and Computer Vision. Use hand gestures to control a particle system tree and upload memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
